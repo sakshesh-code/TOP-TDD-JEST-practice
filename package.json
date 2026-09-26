@@ -1,0 +1,25 @@
+{
+  "name": "top-tdd-jest-practice",
+  "version": "1.0.0",
+  "description": "Test Driven Development practice using JEST and Babel - The Odin Project Curriculum",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakshesh-code/TOP-TDD-JEST-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/sakshesh-code/TOP-TDD-JEST-practice/issues"
+  },
+  "homepage": "https://github.com/sakshesh-code/TOP-TDD-JEST-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.7",
+    "jest": "^30.5.2"
+  }
+}
